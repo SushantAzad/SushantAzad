@@ -1,7 +1,7 @@
-![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg)
+![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Sushant Azad</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
-<img align="right" alt="Coding" width="500" src="https://t4.ftcdn.net/jpg/05/51/90/45/360_F_551904588_4k6meAIGDmMF1wgrK4K9Zy1yGSeNDbq1.jpg"
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 
 <p align="left">SushantAzad</p>
 
