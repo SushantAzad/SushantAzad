@@ -39,5 +39,3 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SushantAzad&theme=chartreuse-dark&show_icons=true" alt="sushantazad" /></p>
 
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantazad&" alt="sushantazad" /></p>
